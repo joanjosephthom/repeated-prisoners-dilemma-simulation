@@ -68,7 +68,7 @@ mvn javafx:run
 ---
 
 ## 📖 Report
-For detailed background, methodology, and analysis, see the [project report](docs/report.pdf).
+For detailed background, methodology, and analysis, see the [project report](docs/PROGRAMMING%20II%20PROJECT%20report.pd).
 
 ---
 
